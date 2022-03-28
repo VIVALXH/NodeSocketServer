@@ -1,0 +1,45 @@
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\bin\Debug\net6.0\SocketServer.exe
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\bin\Debug\net6.0\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+C:\Users\VILADA\Desktop\SocketServer\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\bin\Debug\net6.0\SocketServer.exe
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\bin\Debug\net6.0\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+C:\Users\VILADA\Desktop\SocketServer (2)\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\bin\Debug\net6.0\SocketServer.exe
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\bin\Debug\net6.0\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+C:\Users\VILADA\Desktop\SocketServer (2) - 副本\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll

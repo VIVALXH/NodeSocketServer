@@ -1,0 +1,5 @@
+C:\Users\VILADA\Desktop\NodeSocketServer\SocketServer
+C:\Users\VILADA\Desktop\NodeSocketServer\SocketServer.dll
+C:\Users\VILADA\Desktop\NodeSocketServer\SocketServer.deps.json
+C:\Users\VILADA\Desktop\NodeSocketServer\SocketServer.runtimeconfig.json
+C:\Users\VILADA\Desktop\NodeSocketServer\SocketServer.pdb
